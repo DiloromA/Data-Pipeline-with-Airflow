@@ -60,3 +60,7 @@ Fields - `start_time, hour, day, week, month, year, weekday`
 ## README.MD
 
 A screenshot below shows DAG structure on Airflow:
+![dag](dag.JPG)
+
+A screenshot below shows DAG run history in a tree view on Airflow:
+![dag-tree-view](dag-tree-view.JPG)
