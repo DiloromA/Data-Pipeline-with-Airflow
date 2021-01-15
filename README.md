@@ -55,7 +55,7 @@ Fields - `start_time, hour, day, week, month, year, weekday`
 - load_fact.py - Airflow custom operator to load the fact table in Redshift
 - load_dimension.py - Airflow custom operator to load dimension tables in Redshift
 - data_quality.py - Airflow custom operator for checking data quality in Redshift
-   #### helpers
+#### helpers
 - create_tables.sql - Contains data definition langauge (DDL) statements to create tables in Redshift
 ## README.MD
 
